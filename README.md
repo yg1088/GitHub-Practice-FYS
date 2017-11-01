@@ -24,6 +24,7 @@ Assignment (10 pts):
 
 <br>
 
+# Class GitHub Table
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  

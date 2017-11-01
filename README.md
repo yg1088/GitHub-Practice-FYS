@@ -29,6 +29,7 @@ Assignment (10 pts):
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+|Olivia Ritchey   |   oliviaritchey|   <https://oliviaritchey.github.io/PSU16/> |
 | Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |
 | David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
 | Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |

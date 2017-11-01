@@ -28,6 +28,7 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
+| Reese Orsini | reeseorsini | https://reeseorsini.github.io/demorepo/ |
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 | Olivia Ritchey   |   oliviaritchey|   <https://oliviaritchey.github.io/PSU16/> |
 | Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |

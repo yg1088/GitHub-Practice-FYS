@@ -39,6 +39,7 @@ Assignment (10 pts):
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
 | Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
+|  Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
 
 <br>
 

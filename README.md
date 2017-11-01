@@ -28,10 +28,8 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |   
-| Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
-| Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/
-
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+|  Riley Glancy   | github id      | <https://rileyglancy.github.io/repo-demo>          
 <br>
 
 # Linking to other stuff 

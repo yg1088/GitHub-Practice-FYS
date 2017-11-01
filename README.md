@@ -28,10 +28,20 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |   
-| Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
-| Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/
+| Reese Orsini | reeseorsini | https://reeseorsini.github.io/demorepo/ |
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Olivia Ritchey   |   oliviaritchey|   <https://oliviaritchey.github.io/PSU16/> |
+| Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |
+| David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
+| Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |
+| Lee Koudela    | LeeKoudela     | https://leekoudela.github.io/Demo-Repo/  |
+| David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
+| Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
+| Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
+| Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
+|  Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
 | Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
+
 <br>
 
 # Linking to other stuff 

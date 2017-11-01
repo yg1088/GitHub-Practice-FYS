@@ -31,6 +31,7 @@ Assignment (10 pts):
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |   
 | Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/
+| David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
 
 <br>
 

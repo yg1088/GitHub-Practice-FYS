@@ -38,6 +38,7 @@ Assignment (10 pts):
 | David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
+| Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
 
 <br>
 

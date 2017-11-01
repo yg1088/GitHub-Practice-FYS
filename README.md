@@ -29,7 +29,7 @@ Assignment (10 pts):
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-
+| Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |
 <br>
 
 # Linking to other stuff 

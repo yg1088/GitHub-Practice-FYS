@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# GitHub Pages Assignment
 
-You can use the [editor on GitHub](https://github.com/mdbeckman/GitHub-Practice-FYS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Assignment (10 pts):
+- Create your own GitHub profile/ID (appropriate to share with employers or grad schools)  
+- Create a new repo & initialize it with a "readme" (you can create the readme afterward if needed)  
+- Turn your repo into a website  
+    - [repo] >> settings >> [scroll to bottom] >> create website from master branch  
+    - choose a style  
+    - note the website url  
+    - you can add your own content if you like, but it's fine to just use the filler content provided  
+- Locate class repo
+    - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-FYS" repo
+    - Click on "README.md" >> Edit (pencil icon)
+- Add a row in the table below with your info  
+    - (2 pts) first & last name  
+    - (3 pts) github id  
+    - (2 pts) website url for a GitHub Pages site for your GitHub repo (**NOT** a url to the repo itself)
+    - (2 pts) commit your changes and submit pull request   
+            - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table")  
+            - select "Create a new branch for this commit and start a pull request."   
+            - click green button "Propose file change" & start pull request  
+    - (1 pt) check the link works (wrap url in "<" and ">" to activate link on actual website)  
+    - (ungraded) pat yourself on the back   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdbeckman/GitHub-Practice-FYS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|Name                   |GitHub ID         |website for a GitHub repo  |  
+|:----------------------|:-----------------|:--------------------------|  
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  

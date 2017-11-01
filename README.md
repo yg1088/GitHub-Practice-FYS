@@ -29,6 +29,8 @@ Assignment (10 pts):
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+|:----------------------|:-----------------|:--------------------------|  
+| Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
 
 <br>
 

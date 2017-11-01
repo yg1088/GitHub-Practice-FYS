@@ -28,7 +28,9 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |
+| David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
+
 
 <br>
 

@@ -29,3 +29,14 @@ Assignment (10 pts):
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+
+<br>
+
+# Linking to other stuff 
+
+**Below is just a demo, not part of the assignment grade. **
+
+In the assignment you learned to make a repo into a webpage and create a GitHub Pages front end for other people to see.  This is a great way to make your work publicly available to share with other people.  This is a good idea for making a portfolio of your work, a personal webpage, etc.  If I wanted to link to a local file in this repo, I could share [this description of my class schedule in Fall 2017 (link)](ClassScheduleActivity.html).  You might have noticed the document `ClassScheduleActivity.html` appears in the repo, so the previous link simply accesses that HTML document.  
+
+Note that you can make private repos with GitHub, so you and collaborators that you invite can access all the functionality of GitHub without revealing your work to the public.  The content of the webpage and all linked content will be visible to the public, but anything else in the repo will still be private.  I do this with course materials.  For example, my class webpage for STAT 184 is publicly available <https://mdbeckman.github.io/PSU-STAT-184/>, but I keep the repo itself private so I can control what content I do/don't want people to see.
+
